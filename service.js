@@ -5,7 +5,6 @@
 
 var async = require('async');
 
-
 async.waterfall([
     function (callback) {
         require('./lib').init(function(error, service){
@@ -28,5 +27,5 @@ async.waterfall([
         })
     }
 ],function(error, service){
-    if(!error) service.initialize();
+    if(!error)service.initialize();
 });
