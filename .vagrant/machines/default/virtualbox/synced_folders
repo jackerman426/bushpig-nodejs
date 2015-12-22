@@ -1,1 +1,0 @@
-{"nfs":{"/app/node":{"nfs":true,"guestpath":"/app/node","hostpath":"/Users/mariostzakris/Workspace/bushpig-nodejs","disabled":false,"type":"nfs","map_uid":503,"map_gid":20,"nfs_udp":true,"nfs_version":3,"uuid":"1288358230"}},"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/mariostzakris/Workspace/bushpig-nodejs","disabled":false}}}
